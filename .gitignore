@@ -14,7 +14,6 @@ htmlcov/
 .coverage
 .trae/
 .idea/
-.vscode/
 
 # Pipeline outputs (regenerable — never commit large media)
 output/
@@ -84,3 +83,7 @@ remotion-composer/public/*
 remotion-composer/public/demo-props/test-*
 remotion-composer/public/demo-props/talking-head-*
 remotion-composer/public/demo-props/caption-burn-*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
